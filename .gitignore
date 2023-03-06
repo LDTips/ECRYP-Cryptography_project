@@ -1,0 +1,5 @@
+*.html
+out*
+**/.idea
+**/__pycache__
+lucas_lehmer_proc.py
